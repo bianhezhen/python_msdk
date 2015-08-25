@@ -1,0 +1,5 @@
+languages:
+  Python: true
+exclude_paths:
+- "MSDK_Python_V1.0.1/msdks/msdks.py"
+- "MSDK_Python_V1.0.1/msdks/payments.py"
