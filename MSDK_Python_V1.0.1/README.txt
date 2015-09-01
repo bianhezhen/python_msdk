@@ -1,45 +1,10 @@
 
-====================µ±Ç°°æ±¾ÐÅÏ¢====================
-µ±Ç°°æ±¾£ºV3.0.2
+====================å½“å‰ç‰ˆæœ¬ä¿¡æ¯====================
+å½“å‰ç‰ˆæœ¬ï¼šV1.0.1
 
-·¢²¼ÈÕÆÚ£º2013-02-28
+å‘å¸ƒæ—¥æœŸï¼š2015-04-28
 
-ÎÄ¼þ´óÐ¡£º6.5 K 
-
-
-====================ÐÞ¸ÄÀúÊ·====================
-V3.0.2  2013-02-28, ÐÞ¸ÄSDKµÄ´íÎó·µ»ØÂë£¬Ôö¼ÓAPIµ÷ÓÃµÄÊý¾ÝÍ³¼Æ¡£
-V3.0.1  2012-08-28, Ö§³ÖÖ§¸¶»Øµ÷Ð­ÒéµÄsigÇ©ÃûÑéÖ¤¡£
-V3.0.0  2011-12-14, ÌÚÑ¶¿ª·ÅÆ½Ì¨V3°æOpenAPIµÄPython SDKµÚÒ»°æ·¢²¼£¬3.0±íÊ¾OpenAPI°æ±¾£¬ºóÒ»Î»0±íÊ¾SDK°æ±¾¡£
-        ±¾SDK»ùÓÚV3°æOpenAPI£¬ÊÊÓÃÓÚÌÚÑ¶¿ª·ÅÆ½Ì¨ÉÏËùÓÐÓ¦ÓÃ½ÓÈëÊ±Ê¹ÓÃ£º
-        -V3°æOpenAPIÊÇÀÏOpenAPIµÄÉý¼¶°æ£¬Ö§³ÖÈ«Æ½Ì¨Í³Ò»½ÓÈë£¬¼´¶ÔÓÚÍ¬Ò»¹¦ÄÜ£¨ÀýÈç»ñÈ¡ÓÃ»§ÐÅÏ¢£©£¬µÚÈý·½Ó¦ÓÃ²»ÔÙÐèÒª¸ù¾Ý²»Í¬µÄÆ½Ì¨µ÷ÓÃ²»Í¬µÄ½Ó¿Ú¡£
-        -V3°æOpenAPI²ÉÓÃÐÂµÄ½ÓÈëÐ­Òé£¬ÇëÇóÖÐ±ØÐë°üº¬Ç©ÃûÖµ£¬¸ü¼Ó°²È«¡£
-        -V3°æOpenAPIÔÚ²ÎÊýºÍ·µ»ØÖµÉÏ¾¡Á¿ºÍÀÏ°æ±¾OpenAPI½Ó¿Ú¼æÈÝ£¬¿ª·¢ÕßÈç¹ûÏëÉý¼¶µ½ÐÂ°æ±¾OpenAPI£¬´úÂë¸ÄÔì¹¤×÷Á¿½ÏÐ¡¡£
-        -¿ª·¢Õß¿ÉÒÔ×ÔÓÉÑ¡ÔñÊÇ·ñÉý¼¶µ½OpenAPI V3.0¡£ÓÉÓÚOpenAPI V3.0µÄÉÏÊöÓÅµã£¬ÒÔ¼°ºóÐøÐÂ¿ª·ÅµÄ½Ó¿Ú¶¼½«²ÉÓÃOpenAPI V3.0µÄÐ­Òé£¬ÎÒÃÇÍÆ¼ö¿ª·¢Õß½øÐÐÉý¼¶¡£Óë´ËÍ¬Ê±£¬ÀÏ°æ±¾µÄOpenAPI½«¼ÌÐøÌá¹©¼¼ÊõÖ§³ÖÖ±ÖÁ2012Äê06ÔÂ30ÈÕ¡£
-        
+æ–‡ä»¶å¤§å°ï¼š6.5 K 
 
 
-====================ÎÄ¼þ½á¹¹ÐÅÏ¢====================
-__init__.py: ³õÊ¼»¯ÎÄ¼þ
-
-openapi_v3.py£ºOpenAPI·ÃÎÊÀà
-
-pay_helper.py: Ö§¸¶·¢»õ»Øµ÷Ð­ÒésigÇ©ÃûÑéÖ¤Àà
-	
-sns_network.py£º·¢ËÍHTTPÍøÂçÇëÇóÀà
-
-sns_sig.py£ºÇëÇó²ÎÊýsigÇ©ÃûÉú³ÉÀà
-
-sns_stat.py: OpenAPIµ÷ÓÃÍ³¼Æ
-
-
-ÌÚÑ¶¿ª·ÅÆ½Ì¨V3°æOpenAPIÕýÔÚ²»¶ÏÔö¼ÓÖÐ£¬Ïê¼ûAPIÁÐ±í£º
-http://wiki.open.qq.com/wiki/API3.0%E6%96%87%E6%A1%A3
-
-
-====================ÁªÏµÎÒÃÇ====================
-ÌÚÑ¶¿ª·ÅÆ½Ì¨¹ÙÍø£ºhttp://open.qq.com/
-Äú¿ÉÒÔ·ÃÎÊÎÒÃÇµÄ×ÊÁÏ¿â»ñµÃÏê¾¡µÄ¼¼ÊõÎÄµµ£ºhttp://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5
-Äú¿ÉÒÔÊ¹ÓÃÁªµ÷¹¤¾ß¼¯À´½øÐÐOpenAPIµÄÁªµ÷ºÍsigÑéÖ¤£ºhttp://open.qq.com/tools¡£
-´ËÍâ£¬ÄãÒ²¿ÉÒÔÍ¨¹ýÆóÒµQQ£¨ºÅÂë£º800013811£»Ö±½ÓÔÚQQµÄ¡°²éÕÒÁªÏµÈË¡±ÖÐÊäÈëºÅÂë¼´¿É¿ªÊ¼¶Ô»°£©×ÉÑ¯¡£
 
